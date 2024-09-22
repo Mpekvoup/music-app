@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "../.vscode"
+		},
+		{
+			"name": "AFG.html",
+			"path": "../AFG.html"
+		},
+		{
+			"name": "awd.css",
+			"path": "../awd.css"
+		},
+		{
+			"name": "baZa dannyh",
+			"path": "../baZa dannyh"
+		},
+		{
+			"name": "css",
+			"path": "../css"
+		},
+		{
+			"name": "images",
+			"path": "."
+		},
+		{
+			"name": "project.py",
+			"path": "../project.py"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
